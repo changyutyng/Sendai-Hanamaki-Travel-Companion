@@ -1,0 +1,12 @@
+{
+  "name": "Sendai-Hanamaki Travel Companion",
+  "description": "A high-end, mobile-first iOS-style companion for a 5-day Sendai-Hanamaki trip featuring interactive itineraries, simulated real-time expenses, and an AI visual shopping hunt.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
